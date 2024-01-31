@@ -1,0 +1,21 @@
+{
+  "age": 39,
+  "asthma": 2,
+  "cardiovascular": 2,
+  "clasiffication_final": 3,
+  "copd": 2,
+  "date_died": "9999-99-99",
+  "diabetes": 1,
+  "hipertension": 1,
+  "inmsupr": 2,
+  "intubed": 97,
+  "medical_unit": 12,
+  "obesity": 1,
+  "other_disease": 2,
+  "patient_type": 1,
+  "pneumonia": 2,
+  "pregnant": 97,
+  "renal_chronic": 2,
+  "sex": 2,
+  "tobacco": 2
+}
